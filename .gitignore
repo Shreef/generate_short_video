@@ -163,3 +163,6 @@ cython_debug/
 *.wav
 *.mp4
 
+download
+.DS_Store
+.vscode
